@@ -225,34 +225,34 @@ Halogenation, Hydrolysis, Grignard Reaction, and Suzuki reactions.
 1. T Liu, F Yang, X Wang, JF Liang. Adhesive Gold Nanoparticles for Easy and Controlled Surfaces Coating. Langmuir, 2019. 35 (7), 
 2728–2737.
 
-[Publication Link1] (https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.8b04110)
+    [Publication Link1] (https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.8b04110)
 
 2. T Liu, JF Liang, Nano-Structured Surfaces from High-Density Grafted Poly (Acrylic Acid) with Liquid-Like Property. Reactive and 
 Functional Polymers. 2018, 127, 123-128.
 
-[Publication Link2] (https://www.sciencedirect.com/science/article/abs/pii/S1381514818300956)
+    [Publication Link2] (https://www.sciencedirect.com/science/article/abs/pii/S1381514818300956)
 
 3. X Zhou, TL Chang, S Chen, T Liu, H Wang, JF Liang, Polydopamine-Decorated Orlistat-Loaded Hollow Capsules with an Enhanced 
 Cytotoxicity against Cancer Cell Lines. Mol. Pharmaceutics. 2019, 16, 6, 2511-2521.
 
-[Publication Link3] (https://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.9b00116)
+    [Publication Link3] (https://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.9b00116)
 
 4.	F Yan, TL Chang, T Liu, D Wu, H Du, J Liang, and F Tian, Label-free detection of Staphylococcus aureus bacteria using long-
 period fiber gratings with functional polyelectrolyte coatings. Biosensors and Bioelectronics, 2019, 133, 15, 147-153.
 
-[Publication Link4] (https://www.ncbi.nlm.nih.gov/pubmed/30927678)
+    [Publication Link4] (https://www.ncbi.nlm.nih.gov/pubmed/30927678)
 
 5.	Y Liang, C Xu, G Li, T Liu, JF. Liang, X Wang. Graphene-kaolin Composite Sponge for Rapid and Riskless Hemostasis. Colloids 
 and Surfaces B: Biointerfaces. 2018, 169, 168-175.
 
-[Publication Link5] (https://www.sciencedirect.com/science/article/pii/S0927776518302923)
+    [Publication Link5] (https://www.sciencedirect.com/science/article/pii/S0927776518302923)
 
 6.	A Ambi, J Bryan, K Borbon, D Centeno, T Liu, TP Chen, T Cattabiani, C Traba. Are Russian Propolis Ethanol Extracts the Future 
 for the Prevention of Medical and Biomedical Im plant Contaminations? Phytomedicine. 2017, 30, 50-58.
 
-[Publication Link6] (https://www.ncbi.nlm.nih.gov/pubmed/28545669)
+    [Publication Link6] (https://www.ncbi.nlm.nih.gov/pubmed/28545669)
 
 7.	TP Chen, T Liu, TL Su, J Liang, Self-Polymerization of Dopamine in Acidic Environments without Oxygen. Langmuir. 2017, 33, 
 5863–5871.
 
-[Publication Link7] (https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.7b01127)
+    [Publication Link7] (https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.7b01127)
