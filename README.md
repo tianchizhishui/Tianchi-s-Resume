@@ -11,7 +11,6 @@ Location: Bellevue. WA
 [LinkedIn] (https://www.linkedin.com/in/tianchi-liu-034390b4/)
 
 ## Professional Profile
-
 A diligent and ambitious chemistry Ph.D. possessing a robust understanding of chemistry mechanism and analytical tools. 
 Recognized for exceptional problem-solving, fast learning, and interpersonal skills. 
 Sophisticated researching proficiency with 6+ years’ experience in polymer chemistry, and organic chemistry. 
@@ -80,8 +79,93 @@ Stevens Institute of Technology / Hoboken, NJ / January 2014 - May 2016
 
 ## Skills
 
+### Chemistry and Biology
 
+-	Wet organic chemistry and inorganic chemistry experiments
 
+-	Good Manufacturing Practice (GMP)
+
+-	Good Laboratory Practice (GLP)
+
+-	Standard Operating Procedure (SOP)
+
+-	Flash Chromatography
+
+-	Rotatory Evaporation
+
+-	Recrystallization
+
+-	Vacuum Oven
+
+-	Low-Temperature Plasma
+
+-	Freeze-drying
+
+-	Bacteria and Mammal Cell Culture
+
+-	MTT Assay
+
+-	CV Staining
+
+-	Live/Dead staining
+
+-	Project Design and Data Analysis
+
+### Analytical
+
+-	Scanning Electron Microscope (SEM)
+
+-	Atomic Force Microscopy (AFM)
+
+-	High-Performance Liquid Chromatography (HPLC)
+
+-	Liquid Chromatography-Mass Spectrometry (LCMS)
+
+-	Nuclear Magnetic Resonance Spectroscopy (NMR)
+
+-	Fourier-Transform Infrared Spectroscopy (FT-IR)
+
+-	Ultraviolet-Visible Spectroscopy (UV-Vis Spectrometry)
+
+-	Fluorescence Spectrometer
+
+-	Matrix-Assisted Laser Desorption/Ionization Time-of-Flight mass spectrometry (MALDI-TOF MS)
+
+-	Dynamic Light Scattering (DLS)
+
+-	Thermogravimetric Analysis (TGA)
+
+-	Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)
+
+-	Confocal Microscopy
+
+-	Optical Density (OD)
+
+-	Instrument Troubleshooting and Parts Repair
+
+### Computer
+
+- Java Intro
+
+- git
+
+-	SCI Finder
+
+-	Chem Office
+
+-	Origin Pro
+
+-	Images J Software
+
+-	INCA
+
+-	TopSpin Spectra Analyzation
+
+-	SpectraGryph
+
+-	Microsoft Office
+
+-	Trilution LC
 
 ## Academic Projects
 
