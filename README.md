@@ -21,4 +21,6 @@ Currently learning java programing, OOP concept, and algorithm that in order to 
 
 ## Education
 
-** Ph.D. IN SCIENCE IN CHEMISTRY ** Stevens Institute of Technology, Hoboken, NJ.
+**Ph.D. IN SCIENCE IN CHEMISTRY** Stevens Institute of Technology, Hoboken, NJ.          May, 2019
+
+**BACHELOR OF SCIENCE IN CHEMISTRY** Sichuan University, Chengdu, China          June, 2011
